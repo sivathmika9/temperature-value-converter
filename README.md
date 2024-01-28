@@ -1,5 +1,6 @@
 # Temperature-Converter
-![Temperature_ConverterSS](https://github.com/Laharireddy-95/Temperature_Converter/assets/126745704/1b947472-d9b9-4742-9ff7-2bd6e479cf8a)
+![Temperture_Converters](https://github.com/sivathmika9/temperature-value-converter/assets/150062300/e1eb280a-99e5-4684-965c-39166f3a6f32)
+
 
 ## Description
 Introducing the Temperature Converter—a user-friendly web app designed to effortlessly transform temperature values across various units, including Celsius, Fahrenheit, and Kelvin. Created with a combination of HTML, CSS, and JavaScript, this project ensures accessibility and simplicity, catering to anyone seeking swift and accurate temperature conversions on demand.
